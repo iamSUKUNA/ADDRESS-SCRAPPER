@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-# link examples.
+# College link examples frm the sheet.
 
 All_url = ['http://www.useams.org/',
     'https://www.amclko.org/',
